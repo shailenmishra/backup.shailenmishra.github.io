@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Shailen's Page
 
 You can use the [editor on GitHub](https://github.com/shailenmishra/shailenmishra.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
